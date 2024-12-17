@@ -23,10 +23,8 @@ N\_0V1 is an immersive puzzle-adventure game where players reboot a failing AI s
 ---
 
 ## Project Structure
-
-N\_0V1-svelte-app/ : Contains all Svelte components and game logic.
-
-N\_0V1-devvit-app/ : Devvit-specific files for Reddit deployment.
+- `N_0V1-svelte-app/` : Contains all Svelte components and game logic.
+- `N_0V1-devvit-app/` : Devvit-specific files for Reddit deployment.
 
 ---
 
