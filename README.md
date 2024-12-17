@@ -18,7 +18,7 @@ N\_0V1 is an immersive puzzle-adventure game where players reboot a failing AI s
 
 - **Frontend Framework**: [SvelteKit](https://kit.svelte.dev/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-- **Deployment Platform**: [Devvit](https://reddit.com/devvit) (Reddit’s Developer Platform)
+- **Deployment Platform**: [Devvit](https://developers.reddit.com/) (Reddit’s Developer Platform)
 
 ---
 
@@ -34,7 +34,7 @@ N\_0V1-devvit-app/ : Devvit-specific files for Reddit deployment.
 
 For questions or feedback, reach out to the creator:
 
-- Email: [[your-email@example.com](mailto\:your-email@example.com)]
+- Email: [[blacknova.mab@gmail.com](mailto\:blacknova.mab@gmail.com)]
 
 
 
