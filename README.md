@@ -16,7 +16,7 @@ N\_0V1 is an immersive puzzle-adventure game where players reboot a failing AI s
 
 ## Technologies Used
 
-- **Frontend Framework**: [SvelteKit](https://kit.svelte.dev/)
+- **Frontend Framework**: [SvelteKit](https://svelte.dev/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
 - **Deployment Platform**: [Devvit](https://developers.reddit.com/) (Reddit’s Developer Platform)
 
