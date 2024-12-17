@@ -680,7 +680,7 @@
                 target:"file4.txt",
                 question:"morse",
                 answer:{
-                    right:"recieved",
+                    right:"received",
                     guess:""
                 },
                 comments:{
