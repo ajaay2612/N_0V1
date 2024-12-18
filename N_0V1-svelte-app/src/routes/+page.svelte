@@ -38,9 +38,10 @@
 
                 username = message.data.username;
                 // gameData = {...message.data.gameData};
-                gameData.currentStep = message.data.gameData.currentStep;
-                gameData.currentFile = message.data.gameData.currentFile;
-                gameData.index = message.data.gameData.index;
+                gameData.currentStep = message.data?.gameData?.currentStep ?? -1;
+                gameData.currentFile = message.data?.gameData?.currentFile ?? -1;
+                gameData.completed = message.data?.gameData?.completed ?? false;
+                gameData.index = message.data?.gameData?.index ?? "1/1";
 
 
                 mounted = true;
